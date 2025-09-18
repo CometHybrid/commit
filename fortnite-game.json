@@ -1,0 +1,84 @@
+{
+    "_title": "Fortnite Game",
+    "_noIndex": false,
+    "_activeDate": "2017-08-30T03:20:48.050Z",
+    "lastModified": "2025-09-13T00:10:41.529Z",
+    "_locale": "en-US",
+    "_templateName": "blank",
+    "subgameinfo": {
+      "battleroyale": {
+        "image": "https://cdn2.unrealengine.com/19br-subgameselect-512x1024-4c4c08628e91.png",
+        "color": "5b2569",
+        "_type": "Subgame Info",
+        "description": "100 Player PvP",
+        "subgame": "battleroyale",
+        "standardMessageLine2": "",
+        "title": "Battle Royale",
+        "standardMessageLine1": ""
+      },
+      "savetheworld": {
+        "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/StW/09_SubgameSelect_Default_StW-512x1024-e47f51e25cbe9943678b9221056a808e81da40e3.jpg",
+        "color": "7615E9FF",
+        "specialMessage": "",
+        "_type": "Subgame Info",
+        "description": "Cooperative PvE Adventure",
+        "subgame": "savetheworld",
+        "standardMessageLine2": "",
+        "title": "Save The World",
+        "standardMessageLine1": ""
+      },
+      "_title": "SubgameInfo",
+      "_noIndex": false,
+      "creative": {
+        "image": "https://cdn2.unrealengine.com/subgameselect-cr-512x1024-371f42541731.png",
+        "color": "0658b9",
+        "_type": "Subgame Info",
+        "description": "Your Islands. Your Friends. Your Rules.",
+        "subgame": "creative",
+        "title": "Creative",
+        "standardMessageLine1": ""
+      },
+      "_activeDate": "2019-11-05T05:00:00.000Z",
+      "lastModified": "2022-01-06T13:12:53.445Z",
+      "_locale": "en-US",
+      "_templateName": "SubgameInfo"
+    },
+    "dynamicbackgrounds": {
+    "backgrounds": {
+      "backgrounds": [
+        {
+          "backgroundimage": "https://static.wikia.nocookie.net/fortnite/images/e/e7/Chapter_4_Season_2_-_Lobby_Background_-_Fortnite.png",
+          "stage": "defaultnotris",
+          "_type": "DynamicBackground",
+          "key": "lobby"
+        }
+      ],
+      "_type": "DynamicBackgroundList"
+    },
+    "_title": "dynamicbackgrounds",
+    "_noIndex": false,
+    "_activeDate": "2023-11-03T07:30:00.000Z",
+    "lastModified": "2025-09-12T18:09:56.937Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameDynamicBackgrounds"
+  },
+  "emergencynoticev2": {
+    "_title": "emergencynoticev2",
+    "_noIndex": false,
+    "emergencynotices": {
+      "_type": "Emergency Notices",
+      "emergencynotices": [
+        {
+          "hidden": false,
+          "_type": "CommonUI Emergency Notice Base",
+          "title": "Comet",
+          "body": "Made by Vegemite\rdiscord.gg/4kRtYmK2vb"
+        }
+      ]
+    },
+    "_activeDate": "2023-09-26T03:00:00.000Z",
+    "lastModified": "2025-09-12T20:12:06.184Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameMOTD"
+  }
+}
