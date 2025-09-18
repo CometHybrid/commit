@@ -1,0 +1,58 @@
+{
+    "profileRevision" : 99999,
+    "profileId" : "athena",
+    "profileChangesBaseRevision" : 99999,
+    "profileChanges" : [ {
+      "changeType" : "fullProfileUpdate",
+      "enableConstructDelta" : true,
+      "profile" : {
+        "created" : "2025-09-01T04:12:01.277Z",
+        "updated" : "2025-09-13T03:29:30.041Z",
+        "rvn" : 1,
+        "wipeNumber" : 5,
+        "accountId" : "",
+        "profileId" : "athena",
+        "version" : "",
+        "stats" : {
+          "attributes" : {
+            "habanero_unlocked" : false,
+            "level" : 67,
+            "mfa_reward_claimed" : true,
+            "last_xp_interaction" : "2025-09-08T01:19:16.089Z",
+            "rested_xp_golden_path_granted" : 501265,
+            "quest_manager" : {
+              "dailyLoginInterval" : "2025-09-08T00:50:21.895Z",
+              "dailyQuestRerolls" : 1
+            },
+            "rested_xp" : 420000,
+            "book_level" : 4,
+            "season_num" : 37,
+            "accountLevel" : 69,
+            "rested_xp_consumed_cumulative" : 67,
+            "rested_xp_cumulative" : 67,
+            "book_xp" : 80000,
+            "creative_dynamic_xp" : {
+              "weeklyExcessXpMult" : 1.0,
+              "bankXp" : 0,
+              "bankXpMult" : 1.0,
+              "currentWeekXp" : 80000,
+              "boosterBucketXp" : 0,
+              "boosterXpMult" : 0.0,
+              "currentWeek" : 5,
+              "timespan" : 21.710899353027344,
+              "bucketXp" : 0
+            },
+            "xp" : 80000,
+            "locker_service_cosmetic_items_migration_status" : "LockerReadDualWrite",
+            "last_match_end_datetime" : "2025-09-06T05:23:13.692Z"
+          }
+        },
+        "commandRevision" : 99999,
+        "_id" : "comet_profile_athena",
+        "items" : {}
+      }
+    } ],
+    "profileCommandRevision" : 99999,
+    "serverTime" : "2025-09-13T03:29:33.035Z",
+    "responseVersion" : 99999
+  }
