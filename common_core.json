@@ -1,0 +1,27 @@
+{
+    "profileRevision" : 99999,
+    "profileId" : "common_core",
+    "profileChangesBaseRevision" : 99999,
+    "profileChanges" : [ {
+      "changeType" : "fullProfileUpdate",
+      "enableConstructDelta" : true,
+      "profile" : {
+        "created" : "2020-01-05T02:57:11.959Z",
+        "updated" : "2025-09-12T03:34:42.587Z",
+        "rvn" : 99999,
+        "wipeNumber" : 9,
+        "accountId" : "",
+        "profileId" : "common_core",
+        "version" : "",
+        "stats" : {
+          "attributes" : {}
+        },
+        "commandRevision" : 99999,
+        "_id" : "",
+        "items" : {}
+      }
+    } ],
+    "profileCommandRevision" : 99999,
+    "serverTime" : "2025-09-12T03:41:27.222Z",
+    "responseVersion" : 1
+}
